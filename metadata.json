@@ -1,0 +1,6 @@
+{
+  "name": "Sistem HACCP — Bahan Pembelajaran Kendiri",
+  "description": "Bahan Pembelajaran Kendiri (SIM) interaktif mengenai Sistem Hazard Analysis Critical Control Points (HACCP) untuk memahami bahaya makanan dan mengenal pasti CCP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
